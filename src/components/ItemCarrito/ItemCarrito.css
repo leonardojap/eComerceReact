@@ -1,0 +1,27 @@
+.itemCarrito {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+.ingCarrito {
+  width: 100px;
+}
+.datacarrito {
+  font-size: 18px;
+  font-weight: 500;
+}
+.nameProducto {
+  width: 40%;
+  margin-left: 20px;
+}
+.priceCarrito {
+  color: #388e3c;
+}
+
+.trash {
+  font-size: 2rem;
+  cursor: pointer;
+  color: #757575;
+  margin-top: -20px;
+}

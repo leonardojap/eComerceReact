@@ -1,0 +1,56 @@
+.titleTableCarrito {
+  font-size: 24px;
+  font-weight: 500;
+  padding: 10px 0;
+}
+
+.titleResume {
+  font-weight: 300;
+}
+
+.titleResumeTotal {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+.btnFinalizarCompra {
+  width: 90%;
+  height: 50px;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #424242;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.tituloDetalle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btnDescuento {
+  width: 28%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #212121;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.inputDescuento {
+  width: 40%;
+  height: 50px;
+  border: 1px solid #424242;
+  cursor: pointer;
+}
+.titleDescuento {
+  width: 28%;
+}
+.btnSeguirComprando {
+  cursor: pointer;
+}
